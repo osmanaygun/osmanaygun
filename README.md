@@ -1,4 +1,4 @@
-- 📫 Reach me through: osmanaygun@solarvis.co or osmanaygun2012@gmail.com 
+- 📫 Reach me through: osmanaygun2012@gmail.com 
 
 <!---
 osmanaygun/osmanaygun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
